@@ -1,18 +1,18 @@
 # HapticsFeedBack
 iOS 3D Touch Haptics Feedback demonstrate.
 
-####UIImpactFeedbackGenerator Feedback
+#### UIImpactFeedbackGenerator Feedback
 * Light
 * Medium
 * Heavy
 
-####UISelectionFeedbackGenerator Feedback
+#### UISelectionFeedbackGenerator Feedback
 * Change
 
-####UINotificationFeedbackGenerator FeedBack
+#### UINotificationFeedbackGenerator FeedBack
 * Success
 * Warning
 * Error
 
-####AudioServicesPlay
+#### AudioServicesPlay
 * AudioServicesPlaySystemSound(arg)
